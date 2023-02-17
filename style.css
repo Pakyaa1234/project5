@@ -1,0 +1,41 @@
+#sec1 img
+{
+    width: 500px ;
+    height: auto;
+}
+
+
+.contain
+{
+    border-radius:20px;
+    color:#ffffff;
+    background-color: rgba(3, 22, 129, 0.993);
+}
+
+#sec3 img
+{
+    width: 600px;
+    height: auto;
+}
+
+.col1
+{
+    border: 1px solid black;
+}
+
+footer
+{
+    color: white;
+    background-color: grey;
+}
+
+footer a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: darkgray;
+    border-bottom: 2px solid black;
+}
